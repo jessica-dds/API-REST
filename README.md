@@ -1,1 +1,1 @@
-# API-REST
+Servidor desenvolvido durante o curso Full Stack da Cubos Academy
